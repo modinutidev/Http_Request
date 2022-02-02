@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido com o objetivo de mostrar a aplicação de alguns conceitos, funções e bibliotecas do React Native.
 </p>
  
-## Ciclo de vida (Hook useEffect), Função assíncrona (Async Await) e Tratativa de exceção (Try catch)
+## Ciclo de vida (Hook useEffect), Função Assíncrona (Async Await) e Tratativa de exceção (Try Catch)
 <p>
 Para renderizar os componentes do aplicativo foi explorada a função de ciclo de vida Hook useEffect. Esta função é executada sempre que o componente for iniciado ou quando uma variável que a função esteja monitorando é atualizada.
 <br/>
