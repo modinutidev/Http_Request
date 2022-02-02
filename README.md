@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido com o objetivo de mostrar a aplicação de alguns conceitos, funções e bibliotecas do React Native.
 </p>
 
- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/48818414/152077869-5824abd5-2414-4a2e-8007-4c88a818a663.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/48818414/152078079-9a84be32-c36c-4f24-adf7-3ea2fc20c010.gif)
 
 ## Ciclo de vida (Hook useEffect), Função Assíncrona (Async Await) e Tratativa de exceção (Try Catch)
 <p>
