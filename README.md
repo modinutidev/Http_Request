@@ -18,5 +18,5 @@ Também foi adicionado a função getMovies tratativa de exceção (try catch) q
 <p>
 Para renderizar os filmes utilizei o FlatList que tem uma sintax simples, batas preencher ao menos três atributos, data, keyExtractor, renderItem. Em data atribuímos a variável movies onde contém fotos dos filmes cadastrados na API, keyExtractor que atribuimos um id ou key de cada item de data e renderItem que recebe um componente para renderizar item por item.
 <br/>
-Foi utilizado o ActivityIndicator que mostra um loadind enquanto os itens não são renderizados mostrando ao usuário que a aplicação está trabalhando para algo ser mostrado
+Foi utilizado o ActivityIndicator que mostra um loadind enquanto os itens não são renderizados mostrando ao usuário que a aplicação está trabalhando para algo ser mostrado.
 </p>
